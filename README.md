@@ -2,8 +2,14 @@
 
 ![Coding GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
-[![Linkedin Badge]([https://img.shields.io/badge/-HarshalChavan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshal-chavan/)](https://www.linkedin.com/in/harshal-chavan/](https://www.linkedin.com/in/harshal-chavan-b873aa28a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-[![GitHub followers]([https://img.shields.io/github/followers/harshalchavan?label=Follow&style=social)](https://github.com/harshalchavan](https://github.com/Harshal-max/Harshal-max/))
+[![Linkedin Badge](https://img.shields.io/badge/-HarshalChavan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshal-chavan/)](https://www.linkedin.com/in/harshal-chavan/)
+[![GitHub followers](https://img.shields.io/github/followers/harshalchavan?label=Follow&style=social)](https://github.com/harshalchavan)
+[![Twitter Badge](https://img.shields.io/badge/-@HarshalChavan1-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/HarshalChavan1)](https://twitter.com/HarshalChavan1)
+
+---
+
+## 🧑‍💻 About Me
+I'm a passionate **Computer Engineering student & developer**. I love building **projects, solving problems**, and contributing to **open-source**.  
 
 ---
 
@@ -20,7 +26,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 ![Harshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshalchavan&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshalchavan&layout=compact&theme=radical)
@@ -33,7 +39,7 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | [Zero Waste Mart](https://github.com/harshalchavan/zerowaste-mart) | Platform to manage waste & donate items | Java, Spring, MySQL |
-| [Hackathon Moon Project](https://github.com/harshalchavan/moon-project) | Detect boulders on Moon using image processing | Python, OpenCV |
+| [Moon Hackathon Project](https://github.com/harshalchavan/moon-project) | Detect boulders on Moon using image processing | Python, OpenCV |
 | [Portfolio Website](https://github.com/harshalchavan/portfolio) | My personal portfolio website | HTML, CSS, JS |
 
 ---
@@ -42,7 +48,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-harshal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harshal@gmail.com)](mailto:harshal@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-Harshal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshal-chavan/)](https://www.linkedin.com/in/harshal-chavan/)
-[![Twitter Badge](https://img.shields.io/badge/-@HarshalChavan1-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/HarshalChavan1)](https://twitter.com/HarshalChavan1)
+[![Twitter Badge](https://img.shields.io/badge/-@HarshalChavan1-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/HarshalChavan1)]
 
 ---
 
