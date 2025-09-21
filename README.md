@@ -1,10 +1,11 @@
 # Hi there 👋, I'm Harshal Chavan
 
-![Coding GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Coding Animation](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 [![Linkedin Badge](https://img.shields.io/badge/-HarshalChavan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshal-chavan/)](https://www.linkedin.com/in/harshal-chavan/)
 [![GitHub followers](https://img.shields.io/github/followers/harshalchavan?label=Follow&style=social)](https://github.com/harshalchavan)
-[![Twitter Badge](https://img.shields.io/badge/-@HarshalChavan1-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/HarshalChavan1)](https://twitter.com/HarshalChavan1)
+[![Twitter Badge](https://img.shields.io/badge/-@HarshalChavan1-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/HarshalChavan1)]
+
 
 ---
 
